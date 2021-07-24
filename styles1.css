@@ -1,0 +1,91 @@
+.top-container{
+  background-color:#E4F9F5 ;
+margin-left: 0;position: relative;
+  margin-top: 0; padding-top: 100px;
+}
+
+body{ margin: 0;
+  font-family: 'Merriweather','Sacramento',serif;
+      color: #40514E;
+text-align: center;
+}
+
+h3{font-family: 'Merriweather', serif;
+   color:#11999E; }
+h2{ font-family: 'Montserrat', sans-serif;color:#66BFBF;
+font-size: 2.5rem;
+padding-bottom: 10px;}
+h1{ margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+color: #66BFBF; }
+.middle-container{
+padding: 50px 0 20px;
+margin: 100px 0;
+}
+p{line-height: 2;}
+hr{border: dotted #EAF6F6 6px;
+border-bottom: none;width: 4%;margin: 100px auto;}
+.h1-intro{
+    font-size: 90px;
+    font-weight: bold;
+}
+.bottom-container{ background-color: #66bfbf ;
+  padding: 50px 0 20px;
+  }
+  .Dance{width: 25%;
+  float: right;
+margin-left: 30px;}
+  .Sketching{width: 25%;
+    float: left;
+  margin-right: 30px;}
+  .cooking{
+    width: 25%;
+    float: left;
+  margin-right: 30px;
+  }
+.skill-row{ width: 50%;
+margin: 100px auto 100px auto;
+text-align: left; line-height: 2;}
+.topcloud{position: absolute;
+right: 280px;
+top: 150px;}
+.contactmess{width: 30%;
+margin: 40px auto 60px;}
+.bottomcloud{position:absolute;
+bottom: 300px; left: 300px;}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+a{color: #055052; font-family: 'Merriweather', serif;
+margin: 15px 30px; text-decoration: none;
+font-size:  30px;}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px 0;}
